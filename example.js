@@ -11,7 +11,7 @@ print(“hello, member2’s name”);
 }
 
 function hello3() {
-  print(“hello, member2’s name”);
+  print(�~@~\hello, anannihow�~@~Ys name�~@~]);
 }
 
 function main() {
