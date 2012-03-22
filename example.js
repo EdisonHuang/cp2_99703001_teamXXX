@@ -3,7 +3,7 @@
 # 99XXXXXX, 99XXXXXX, 99XXXXXX
 
 function hello1() {
-print(“hello, member1’s name”);
+print(“hello, EdisonHuang’s name”);
 }
 
 function hello2() {
@@ -11,7 +11,7 @@ print(“hello, alex’s name”);
 }
 
 function hello3() {
-  print(“hello, member2’s name”);
+  print(�~@~\hello, anannihow�~@~Ys name�~@~]);
 }
 
 function main() {
